@@ -1,3 +1,0 @@
-C:/Users/admin/Desktop/bitcoin_converter/build/CMakeFiles/bitcoin_converter.dir
-C:/Users/admin/Desktop/bitcoin_converter/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/admin/Desktop/bitcoin_converter/build/CMakeFiles/ZERO_CHECK.dir
