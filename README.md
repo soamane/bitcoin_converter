@@ -76,6 +76,6 @@ int main(int argc, char** argv) {
 5. Запустите скомпилированный файл:
 
     ```bash
-    ./bitcoin_key_generator
+    ./bitcoin_converter.exe
     ```
 
